@@ -7,6 +7,7 @@ I hope you find it helpful in some way, shape, or form. ❤️
 Thanks for your support on my YouTube channel. 🙏
 
 You can view the Flutter Speed Code Video here: [Furniture Shop App - Flutter UI - Speed Code](https://bit.ly/2TqmtIQ)
+
 ![app preview](https://github.com/davethedevofficial/furniture-app/blob/master/preview.gif?raw=true)
 
 ## Getting Started
